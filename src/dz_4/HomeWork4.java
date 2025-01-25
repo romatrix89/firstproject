@@ -1,7 +1,8 @@
 package dz_4;
 
 public class HomeWork4 {
-
-    //Домашняя работа №4
+    public static void main(String[] args) {
+        //Домашняя работа №4
+    }
 
 }
