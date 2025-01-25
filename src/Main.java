@@ -1,6 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
-        System.out.println("Привет мир");
+
+        //Домашнее задание №2. Работа с переменными
+        int number = 7;
+        String value = "Hello";
+
     }
 }
