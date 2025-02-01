@@ -44,6 +44,7 @@ public class Main {
         int a6 = a4 + a5;
 
         System.out.println("Результат сложение = " + a3);
+        System.out.println("Тестовый вывод");
 
         int a7 = a2 / a1;
         double b1 = 4.0;
